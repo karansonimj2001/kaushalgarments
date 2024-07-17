@@ -1468,7 +1468,7 @@ footer .Copyright {
 
     #navbar li {
         list-style: none;
-        padding: 0 10vw;
+        padding: 0 5vw;
         position: relative;
     }
 
@@ -1493,7 +1493,7 @@ footer .Copyright {
         background: greenyellow;
         position: absolute;
         bottom: -4px;
-        left: 50px;
+        left: 30px;
     }
 
 
